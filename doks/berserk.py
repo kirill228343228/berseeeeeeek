@@ -6,6 +6,7 @@ class Berserk(Character):
     damage_multiplier = 1.5
     rage_limit = 50
 
+
     def __init__(self, name, health=100, damage=20, defense=0,
         damage_multiplier= 1.5, rage_limit=50):
         Character.__init__(self, name, health=150, damage=40, defense=0)

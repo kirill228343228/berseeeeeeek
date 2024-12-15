@@ -1,6 +1,7 @@
 from sport.character import Character
 from berserk import Berserk
 
+
 player1 = Character("Andrei", 240, 20, 0)
 player1.print_stats()
 

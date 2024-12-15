@@ -10,6 +10,7 @@ class Character:
         self.damage = damage
         self.defense = defense
 
+
     def print_stats(self):
         print(f" -< {self.name} >- ")
         print(f" Здоров`я {self.health} ")
