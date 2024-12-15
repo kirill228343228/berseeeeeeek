@@ -12,6 +12,6 @@ player3.print_stats()
 
 player1.attack(player2)
 
-print("\n")
+print("\n\n")
 player1.print_stats()
 player2.print_stats()
